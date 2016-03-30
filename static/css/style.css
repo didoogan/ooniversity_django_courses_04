@@ -1,0 +1,14 @@
+.green {color: green}
+.red {color: red}
+.brown {color: green}
+.blue {color: blue}
+.yellow {color: yellow}
+
+a:hover {  border-bottom: 1px solid black; }
+h1 {font-family: Arial}
+.doogan {font-size: 120%; 
+	    font-family: Verdana, Arial, Helvetica, sans-serif; 
+	    color: #336;}
+a:hover {background: yellow; color: blue}
+.list {margin: 2em}
+div p {margin: 3em; font-size: 11px}
